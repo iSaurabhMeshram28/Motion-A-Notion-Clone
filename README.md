@@ -1,4 +1,4 @@
-# Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
+# Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind 
 
 
 Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind 
