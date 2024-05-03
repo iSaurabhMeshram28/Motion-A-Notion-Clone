@@ -1,34 +1,39 @@
-# Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind 
+<h1 align="center">Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind</h1>
+
+<p align="center">This is a mobile-responsive portfolio template built with Next.js, Tailwind CSS, and Framer Motion. It is designed to showcase your projects and skills in an elegant and visually appealing way.</p>
+
+<h2>Live Demo</h2>
+
+<p>Check out the live demo <a href="https://motion-notetakingapp.vercel.app/">here</a>.</p>
+
+<h2 >Key Features</h2>
+
+<ul>
+        <li>Real-time database  🔗 </li>
+        <li>Notion-style editor 📝 </li>
+        <li>Light and Dark mode 🌓</li>
+        <li>Infinite children documents 🌲</li>
+        <li>Trash can & soft delete 🗑️</li>
+        <li>Authentication 🔐 </li>
+        <li>File upload</li>
+        <li>File deletion</li>
+        <li>File replacement</li>
+        <li>Icons for each document (changes in real-time) 🌠</li>
+        <li>Expandable sidebar ➡️🔀⬅️</li>
+        <li>Full mobile responsiveness 📱</li>
+        <li>Publish your note to the web 🌐</li>
+        <li>Fully collapsable sidebar ↕️</li>
+        <li>Landing page 🛬</li>
+        <li>Cover image of each document 🖼️</li>
+        <li>Recover deleted files 🔄📄</li>
+    </ul>
+
+<h2>Prerequisites</h2> 
+
+<p>Node version 18.x.x</p>
 
 
-Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind 
-
-Key Features:
-
-- Real-time database  🔗 
-- Notion-style editor 📝 
-- Light and Dark mode 🌓
-- Infinite children documents 🌲
-- Trash can & soft delete 🗑️
-- Authentication 🔐 
-- File upload
-- File deletion
-- File replacement
-- Icons for each document (changes in real-time) 🌠
-- Expandable sidebar ➡️🔀⬅️
-- Full mobile responsiveness 📱
-- Publish your note to the web 🌐
-- Fully collapsable sidebar ↕️
-- Landing page 🛬
-- Cover image of each document 🖼️
-- Recover deleted files 🔄📄
-
-### Prerequisites
-
-**Node version 18.x.x**
-
-
-### Install packages
+ Install packages
 
 ```shell
 npm i
@@ -61,3 +66,7 @@ npx convex dev
 ```shell
 npm run dev
 ```
+
+<h2>Contributing</h2>
+
+<p>Contributions are welcome! Feel free to open an issue or submit a pull request.</p>
