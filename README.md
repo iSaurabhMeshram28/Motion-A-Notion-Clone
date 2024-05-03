@@ -1,13 +1,19 @@
 <h1 align="center">Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind</h1>
 
-<p align="center">This mobile-responsive Notion Clone built with Next.js, Tailwind CSS, and Framer Motion. It is designed to showcase my projects and skills elegantly and visually appealingly.</p>
+<p align="center">Seamless collaboration on a Next.js 13 and React-powered
+platform with a dynamic Notion-style editor for real-time
+document collaboration. Elevate user experience with a thoughtfully designed interface
+supporting Light and Dark modes, featuring an expandable
+sidebar for easy navigation. Take control with infinite children documents, a soft-delete
+trash can, and file management (upload, deletion, replacement)
+with real-time icon updates for efficient organization.</p>
 
 <h2>Live Demo</h2>
 
 <p>Check out the live demo <a href="https://motion-notetakingapp.vercel.app/">here</a>.</p>
 
 <h2>Screenshot</h2>
-    <img src="path_to_your_screenshot_image.jpg" alt="Screenshot of Todo Web App">
+    <img src="public/Motion.png" alt="Screenshot of Todo Web App">
 
 <h2 >Key Features</h2>
 
