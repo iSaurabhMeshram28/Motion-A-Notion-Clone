@@ -1,10 +1,13 @@
 <h1 align="center">Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind</h1>
 
-<p align="center">This is a mobile-responsive portfolio template built with Next.js, Tailwind CSS, and Framer Motion. It is designed to showcase my projects and skills elegantly and visually appealingly.</p>
+<p align="center">This mobile-responsive Notion Clone built with Next.js, Tailwind CSS, and Framer Motion. It is designed to showcase my projects and skills elegantly and visually appealingly.</p>
 
 <h2>Live Demo</h2>
 
 <p>Check out the live demo <a href="https://motion-notetakingapp.vercel.app/">here</a>.</p>
+
+<h2>Screenshot</h2>
+    <img src="path_to_your_screenshot_image.jpg" alt="Screenshot of Todo Web App">
 
 <h2 >Key Features</h2>
 
