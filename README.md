@@ -1,6 +1,6 @@
 <h1 align="center">Motion - A Notion Clone: Next.js 13, React, Convex, Tailwind</h1>
 
-<p align="center">This is a mobile-responsive portfolio template built with Next.js, Tailwind CSS, and Framer Motion. It is designed to showcase your projects and skills in an elegant and visually appealing way.</p>
+<p align="center">This is a mobile-responsive portfolio template built with Next.js, Tailwind CSS, and Framer Motion. It is designed to showcase my projects and skills elegantly and visually appealingly.</p>
 
 <h2>Live Demo</h2>
 
